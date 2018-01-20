@@ -1,0 +1,24 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+                            
+Name: James Law       
+Location: Johor Bahru, Malaysia
+							
+/* THANKS */
+
+Resources
+---					
+StackOverflow (https://stackoverflow.com)
+w3Schools (https://w3schools.com)
+BitBucket (https://bitbucket.org)
+Galleria (https://galleria.io/)
+
+/* SITE */
+
+                            
+Last update: 2017/12/05
+Standards: HTML5, PHP, CSS3, JavaScript, Bootstrap 3, Bootstrap 4
+Components: Modernizr, jQuery, JSON, AJAX, Google Maps API, MailChimp API, Galleria Image Gallery
+Software: PHPStorm, Sublime Text 3, Atom, Visual Studio Code, ExtraPuTTY, FileZilla, BitBucket, GitKraken
